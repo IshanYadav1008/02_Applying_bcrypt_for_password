@@ -80,3 +80,11 @@ Command:
 
 * Ab hum apni local repo ko push krenge:
 
+Commands:
+---------
+
+=> git add .
+
+=> git commit -m "Pushing the OLD repo login, signup and CRUD Code"
+
+=> git push origin master
